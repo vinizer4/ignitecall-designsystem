@@ -24,7 +24,7 @@
     "@storybook/testing-library": "^0.0.13",
     "@vitejs/plugin-react": "^2.2.0",
     "babel-loader": "^8.3.0",
-    "vite": "^3.2.4"
+    "vite": "^4.5.14"
   },
   "dependencies": {
     "@ignitecall-ui-designsystem/react": "*",
